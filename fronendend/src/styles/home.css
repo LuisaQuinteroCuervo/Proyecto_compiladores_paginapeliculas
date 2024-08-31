@@ -1,0 +1,51 @@
+
+.bg-primary {
+    background-image: url('../assets/images/La-La-Land1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 420px;
+}
+
+.titulo1{
+    color: blanchedalmond;
+    text-align: left;
+    margin-left: 10%;
+}
+
+.titulo2{
+    color: blanchedalmond;
+    text-align: left;
+    margin-left: 10%;
+    width: 350px;
+}
+
+.firstB{
+    width: 10%; 
+    height: 10%;
+    border: none;
+    border-radius: 10%;
+    background-color: #6149E9;
+}
+
+.container2{
+    margin: 4%;
+}
+
+.mt-8{
+    justify-content: center;
+    color: blanchedalmond;
+}
+
+.mt-4{
+    width: 100%;
+
+}
+
+.mt-1{
+    margin: 12%;
+    font-size: 4rem;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #6149E9;
+
+}

@@ -1,0 +1,68 @@
+
+.mt-5{
+    background-color: antiquewhite;
+    margin: 15%;
+    padding: 9%;
+
+}
+
+.pelicula-detail{
+    background-color: #847DAA;
+}
+
+.pelicula-imagen{
+    background-color: aquamarine;
+    width: 300%;
+    margin-right: 30%;
+}
+
+.pelicula-infos{
+    background-color: #AD93C2;
+    border: none;
+    border-radius: 5%;
+    margin-left: 15%;
+    margin-right: -20%;
+}
+
+.pelicula-titulo{
+    margin: 1%;
+    color: white;
+    font-size: 2.5rem;
+    -webkit-text-stroke-width: 1.3px;
+    -webkit-text-stroke-color: #6149E9;
+}
+
+.pelicula-descripcion{
+    color:black;
+font-size: 1.5rem;
+}
+
+.btn-lg{
+margin-left: 12% ;
+padding-left: 10%;
+padding-right: 10% ;
+    background-color: #5e4cc5;
+    border: none;
+    color: azure;
+
+}
+.btn-lg:hover{
+    background-color: #783d8b !important;
+}
+
+.cuadrocon{
+    background-color: #b476c9;
+}
+
+.cuadrocon2{
+    background-color: rgb(252, 229, 229);
+}
+
+
+
+.cuadrocon3{
+    background-color: rgb(252, 229, 229);
+}
+
+
+
